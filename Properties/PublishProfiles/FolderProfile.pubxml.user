@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\nithi\source\repos\Demo2\Demo2\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-25T03:37:02.1663364Z||;True|2024-10-25T10:08:05.6560709+07:00||;True|2024-10-25T09:58:40.7972260+07:00||;True|2024-10-25T09:45:33.5549992+07:00||;True|2024-10-25T09:44:58.9065456+07:00||;True|2024-10-24T20:17:09.4832499+07:00||;True|2024-10-24T18:56:20.0032532+07:00||;True|2024-10-24T16:30:17.1551654+07:00||;True|2024-10-24T16:26:56.0394903+07:00||;True|2024-10-24T16:26:45.4538986+07:00||;True|2024-10-24T16:23:18.4519384+07:00||;True|2024-10-24T16:09:12.0818841+07:00||;True|2024-10-24T16:06:01.7647340+07:00||;True|2024-10-24T15:57:25.0513186+07:00||;True|2024-10-24T15:07:43.3669045+07:00||;True|2024-10-24T14:38:00.4432984+07:00||;True|2024-10-24T12:19:52.8383553+07:00||;True|2024-10-24T12:13:25.4549285+07:00||;True|2024-10-23T20:51:40.6305047+07:00||;True|2024-10-23T17:26:41.8943708+07:00||;True|2024-10-23T16:53:51.0280101+07:00||;True|2024-10-23T16:49:46.0575236+07:00||;True|2024-10-23T16:36:32.7155048+07:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="PackageDemo">
+      <Value>Data Source=IWI\SQLEXPRESS%3bInitial Catalog=Package-Demo%3bIntegrated Security=True%3bEncrypt=True%3bTrust Server Certificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Demo2.Context.Package">
+      <Value>Data Source=IWI\SQLEXPRESS%3bInitial Catalog=Package-Demo%3bIntegrated Security=True%3bTrust Server Certificate=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
