@@ -24,7 +24,7 @@ namespace Demo2.Controllers
         [HttpGet("test")]
         public string GetTest()
         {
-            return "API is Good!";
+            return "API is Good! ysy";
         }
 
         [HttpPost("GetUsersByPackage2")]

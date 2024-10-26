@@ -9038,11 +9038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nithi\\source\\repos\\Demo2\\Demo2\\Demo2.csproj",
+      "projectUniqueName": "D:\\1.demo3\\Demo3\\Demo2\\Demo2.csproj",
       "projectName": "Demo2",
-      "projectPath": "C:\\Users\\nithi\\source\\repos\\Demo2\\Demo2\\Demo2.csproj",
+      "projectPath": "D:\\1.demo3\\Demo3\\Demo2\\Demo2.csproj",
       "packagesPath": "C:\\Users\\nithi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nithi\\source\\repos\\Demo2\\Demo2\\obj\\",
+      "outputPath": "D:\\1.demo3\\Demo3\\Demo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nithi\\AppData\\Roaming\\NuGet\\NuGet.Config",

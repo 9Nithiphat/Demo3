@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zEPQL3hBEw4=",
+  "dgSpecHash": "LQCM/tY9XCM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nithi\\source\\repos\\Demo2\\Demo2\\Demo2.csproj",
+  "projectFilePath": "D:\\1.demo3\\Demo3\\Demo2\\Demo2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nithi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nithi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
